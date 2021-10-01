@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Mondiale",
+    "paese": "Russia",
+    "tipo": "Campionato Mondiale"
+  },
+  {
+    "nome": "Champions League",
+    "paese": "Portogallo",
+    "tipo": "Torneo"
+  },
+  {
+    "nome": "Serie A",
+    "paese": "Italia",
+    "tipo": "Campionato"
+  },
+  {
+    "nome": "Ligue 1",
+    "paese": "Francia",
+    "tipo": "Campionato"
+  },
+  {
+    "nome": "Bundesliga",
+    "paese": "Germania",
+    "tipo": "Campionato"
+  }
+]

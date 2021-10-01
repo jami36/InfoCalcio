@@ -1,0 +1,1190 @@
+[
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "1",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "2",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "3",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "4",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "5",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "6",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "7",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "8",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "9",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "10",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "11",
+    "squadra": "Inter"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "12",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "13",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "14",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "15",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "16",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "17",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "18",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "19",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "20",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "21",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "22",
+    "squadra": "Milan"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "23",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "24",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "25",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "26",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "27",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "28",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "29",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "30",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "31",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "32",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "33",
+    "squadra": "Atalanta"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "34",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "35",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "36",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "37",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "38",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "39",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "40",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "41",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "42",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "43",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "44",
+    "squadra": "Juventus"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "45",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "46",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "47",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "48",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "49",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "50",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "51",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "52",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "53",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "54",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "55",
+    "squadra": "Napoli"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "56",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "57",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "58",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "59",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "60",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "61",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "62",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "63",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "64",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "65",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "66",
+    "squadra": "Lazio"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "67",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "68",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "69",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "70",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "71",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "72",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "73",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "74",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "75",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "76",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "77",
+    "squadra": "Lille"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "78",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "79",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "80",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "81",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "82",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "83",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "84",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "85",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "86",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "87",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "88",
+    "squadra": "PSG"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "89",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "90",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "91",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "92",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "93",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "94",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "95",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "96",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "97",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "98",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "99",
+    "squadra": "Monaco"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "100",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "101",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "102",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "103",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "104",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "105",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "106",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "107",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "108",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "109",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "110",
+    "squadra": "Lione"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "111",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "112",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "113",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "114",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "115",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "116",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "117",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "118",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "119",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "120",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "121",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "122",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "123",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "124",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "125",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "126",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "127",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "128",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "129",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "130",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "131",
+    "squadra": "Nizza"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "132",
+    "squadra": "Marsiglia"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "133",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "134",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "135",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "136",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "137",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "138",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "139",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "140",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "141",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "142",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "143",
+    "squadra": "Bayern"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "144",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "145",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "146",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "147",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "148",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "149",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "150",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "151",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "152",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "153",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "154",
+    "squadra": "Lipsia"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "155",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "156",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "157",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "158",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "159",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "160",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "161",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "162",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "163",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "164",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "165",
+    "squadra": "B. Dortmund"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "166",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "167",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "168",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "169",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "170",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "171",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "172",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "173",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "174",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "175",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "176",
+    "squadra": "Wolfsburg"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "177",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "178",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "179",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "180",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "181",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "182",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "183",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "184",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "185",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "186",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "187",
+    "squadra": "Francoforte"
+  },
+  {
+    "inizio": "2019-08-01",
+    "fine": "2022-08-01",
+    "idgiocatore": "188",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2018-09-15",
+    "fine": "2020-09-15",
+    "idgiocatore": "189",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2018-10-10",
+    "fine": "2024-10-10",
+    "idgiocatore": "190",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2017-08-15",
+    "fine": "2020-08-15",
+    "idgiocatore": "191",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2020-10-07",
+    "fine": "2025-10-07",
+    "idgiocatore": "192",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2019-01-05",
+    "fine": "2022-01-05",
+    "idgiocatore": "193",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2019-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "194",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2020-02-10",
+    "fine": "2024-02-10",
+    "idgiocatore": "195",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2019-09-01",
+    "fine": "2020-09-01",
+    "idgiocatore": "196",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2019-10-01",
+    "fine": "2021-10-01",
+    "idgiocatore": "197",
+    "squadra": "Bayer Leverkusen"
+  },
+  {
+    "inizio": "2017-01-01",
+    "fine": "2021-01-01",
+    "idgiocatore": "198",
+    "squadra": "Bayer Leverkusen"
+  }
+]

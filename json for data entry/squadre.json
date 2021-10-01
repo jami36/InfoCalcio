@@ -1,0 +1,146 @@
+[
+  {
+    "nome": "Italia",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Germania",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "Brasile",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Brasile"
+  },
+  {
+    "nome": "Spagna",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Spagna"
+  },
+  {
+    "nome": "Inghilterra",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Inghilterra"
+  },
+  {
+    "nome": "Francia",
+    "punti": 0,
+    "citta": "",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Inter",
+    "punti": 91,
+    "citta": "Milano",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Milan",
+    "punti": 79,
+    "citta": "Milano",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Atalanta",
+    "punti": 78,
+    "citta": "Genova",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Juventus",
+    "punti": 78,
+    "citta": "Torino",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Napoli",
+    "punti": 77,
+    "citta": "Napoli",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Lazio",
+    "punti": 68,
+    "citta": "Roma",
+    "nazione": "Italia"
+  },
+  {
+    "nome": "Lille",
+    "punti": 83,
+    "citta": "Lilla",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "PSG",
+    "punti": 82,
+    "citta": "Parigi",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Monaco",
+    "punti": 78,
+    "citta": "Monaco",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Lione",
+    "punti": 76,
+    "citta": "Lione",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Marsiglia",
+    "punti": 60,
+    "citta": "Marsiglia",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Nizza",
+    "punti": 58,
+    "citta": "Nizza",
+    "nazione": "Francia"
+  },
+  {
+    "nome": "Bayern",
+    "punti": 78,
+    "citta": "Monaco di Baviera",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "Lipsia",
+    "punti": 65,
+    "citta": "Lipsia",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "B. Dortmund",
+    "punti": 64,
+    "citta": "Dortmund",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "Wolfsburg",
+    "punti": 61,
+    "citta": "Wolfsburg",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "Francoforte",
+    "punti": 60,
+    "citta": "Francoforte",
+    "nazione": "Germania"
+  },
+  {
+    "nome": "Bayer Leverkusen",
+    "punti": 52,
+    "citta": "Leverkusen",
+    "nazione": "Germania"
+  }
+]

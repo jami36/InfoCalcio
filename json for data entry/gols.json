@@ -1,0 +1,41 @@
+[
+  {
+    "id_realizzatore": 11,
+    "id_assistman": 8,
+    "nome_squadra": "Inter",
+    "minuto": 45,
+    "rigore": false,
+    "punizione": false,
+    "autogol": false,
+    "diTesta": false,
+    "rovesciata": false,
+    "piede": true,
+    "id_partita": 1
+  },
+  {
+    "id_realizzatore": 43,
+    "id_assistman": 39,
+    "nome_squadra": "Juventus",
+    "minuto": 43,
+    "rigore": true,
+    "punizione": false,
+    "autogol": false,
+    "diTesta": false,
+    "rovesciata": false,
+    "piede": false,
+    "id_partita": 3
+  },
+  {
+    "id_realizzatore": 42,
+    "id_assistman": 38,
+    "nome_squadra": "Juventus",
+    "minuto": 43,
+    "rigore": true,
+    "punizione": false,
+    "autogol": false,
+    "diTesta": false,
+    "rovesciata": false,
+    "piede": false,
+    "id_partita": 3
+  }
+]

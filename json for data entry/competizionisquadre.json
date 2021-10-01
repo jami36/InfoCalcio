@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "squadre": [
+      "Italia",
+      "Francia",
+      "Germania",
+      "Brasile",
+      "Inghilterra",
+      "Spagna"
+    ]
+  },
+  {
+    "id": 2,
+    "squadre": [
+      "Juventus",
+      "Inter",
+      "PSG",
+      "Monaco",
+      "Bayern",
+      "B. Dortmund"
+    ]
+  },
+  {
+    "id": 3,
+    "squadre": [
+      "Juventus",
+      "Inter",
+      "Milan",
+      "Atalanta",
+      "Lazio",
+      "Napoli"
+    ]
+  },
+  {
+    "id": 4,
+    "squadre": [
+      "Lille",
+      "PSG",
+      "Monaco",
+      "Lione",
+      "Marsiglia",
+      "Nizza"
+    ]
+  },
+  {
+    "id": 5,
+    "squadre": [
+      "Bayern",
+      "Lipsia",
+      "B. Dortmund",
+      "Wolfsburg",
+      "Francoforte",
+      "Bayer Leverkusen"
+    ]
+  },
+]

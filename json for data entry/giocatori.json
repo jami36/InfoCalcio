@@ -1,0 +1,1586 @@
+[
+  {
+    "nome":"Samir",
+    "cognome":"Handanovich",
+    "ddn":"1990-04-18",
+    "squadra":"Inter",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Andrea",
+    "cognome":"Ranocchia",
+    "ddn":"1984-08-14",
+    "squadra":"Inter",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Federico",
+    "cognome":"Di Marco",
+    "ddn":"1987-05-01",
+    "squadra":"Inter",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Matteo",
+    "cognome":"Darmian",
+    "ddn":"1990-10-10",
+    "squadra":"Inter",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Robero",
+    "cognome":"Gagliardini",
+    "ddn":"1992-11-15",
+    "squadra":"Inter",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Arturo",
+    "cognome":"Vidal",
+    "ddn":"1997-10-25",
+    "squadra":"Inter",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Nicolò",
+    "cognome":"Barella",
+    "ddn":"1992-12-20",
+    "squadra":"Inter",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Marcelo",
+    "cognome":"Brozovich",
+    "ddn":"1998-01-08",
+    "squadra":"Inter",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Mattia",
+    "cognome":"Sangalli",
+    "ddn":"1991-06-04",
+    "squadra":"Inter",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Edin",
+    "cognome":"Dzeko",
+    "ddn":"1990-03-20",
+    "squadra":"Inter",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Alexis",
+    "cognome":"Sanchez",
+    "ddn":"1994-08-01",
+    "squadra":"Inter",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Gigio",
+    "cognome":"Donnarumma",
+    "ddn":"1990-04-18",
+    "squadra":"Milan",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Davide",
+    "cognome":"Calabria",
+    "ddn":"1984-08-14",
+    "squadra":"Milan",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Theo",
+    "cognome":"Hernandez",
+    "ddn":"1987-05-01",
+    "squadra":"Milan",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Alessio",
+    "cognome":"Romagnoli",
+    "ddn":"1990-10-10",
+    "squadra":"Milan",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Brahim",
+    "cognome":"Diaz",
+    "ddn":"1992-11-15",
+    "squadra":"Milan",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Daniel",
+    "cognome":"Maldini",
+    "ddn":"1997-10-25",
+    "squadra":"Milan",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Sandro",
+    "cognome":"Tonali",
+    "ddn":"1992-12-20",
+    "squadra":"Milan",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Giacomo",
+    "cognome":"Olzer",
+    "ddn":"1998-01-08",
+    "squadra":"Milan",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Franck",
+    "cognome":"Kessie",
+    "ddn":"1991-06-04",
+    "squadra":"Milan",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Mario",
+    "cognome":"Mandzukic",
+    "ddn":"1990-03-20",
+    "squadra":"Milan",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Zlatan",
+    "cognome":"Ibraimovich",
+    "ddn":"1994-08-01",
+    "squadra":"Milan",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Marco",
+    "cognome":"Sportiello",
+    "ddn":"1990-04-18",
+    "squadra":"Atalanta",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Merih",
+    "cognome":"Demiral",
+    "ddn":"1984-08-14",
+    "squadra":"Atalanta",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Robin",
+    "cognome":"Gosens",
+    "ddn":"1987-05-01",
+    "squadra":"Atalanta",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Matteo",
+    "cognome":"Lovato",
+    "ddn":"1990-10-10",
+    "squadra":"Atalanta",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Marten",
+    "cognome":"De Roon",
+    "ddn":"1992-11-15",
+    "squadra":"Atalanta",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Matteo",
+    "cognome":"Pessina",
+    "ddn":"1997-10-25",
+    "squadra":"Atalanta",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Mario",
+    "cognome":"Pasalic",
+    "ddn":"1992-12-20",
+    "squadra":"Atalanta",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Remo",
+    "cognome":"Freuler",
+    "ddn":"1998-01-08",
+    "squadra":"Atalanta",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Teun",
+    "cognome":"Koompeiners",
+    "ddn":"1991-06-04",
+    "squadra":"Atalanta",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Luis",
+    "cognome":"Muriel",
+    "ddn":"1990-03-20",
+    "squadra":"Atalanta",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Duvan",
+    "cognome":"Zapata",
+    "ddn":"1994-08-01",
+    "squadra":"Atalanta",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Wojciech",
+    "cognome":"Szczesny",
+    "ddn":"1990-04-18",
+    "squadra":"Juventus",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Giorgio",
+    "cognome":"Chiellini",
+    "ddn":"1984-08-14",
+    "squadra":"Juventus",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Leonardo",
+    "cognome":"Bonucci",
+    "ddn":"1987-05-01",
+    "squadra":"Juventus",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Juan",
+    "cognome":"Quadrado",
+    "ddn":"1990-10-10",
+    "squadra":"Juventus",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Federico",
+    "cognome":"Bernardeschi",
+    "ddn":"1992-11-15",
+    "squadra":"Juventus",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Federico",
+    "cognome":"Chiesa",
+    "ddn":"1997-10-25",
+    "squadra":"Juventus",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Adrien",
+    "cognome":"Rabiot",
+    "ddn":"1992-12-20",
+    "squadra":"Juventus",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Manuel",
+    "cognome":"Locatelli",
+    "ddn":"1998-01-08",
+    "squadra":"Juventus",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Rodrigo",
+    "cognome":"Bentancur",
+    "ddn":"1991-06-04",
+    "squadra":"Juventus",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Paulo",
+    "cognome":"Dybala",
+    "ddn":"1990-03-20",
+    "squadra":"Juventus",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Alvaro",
+    "cognome":"Morata",
+    "ddn":"1994-08-01",
+    "squadra":"Juventus",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"David",
+    "cognome":"Ospina",
+    "ddn":"1990-04-18",
+    "squadra":"Napoli",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Filippo",
+    "cognome":"Costa",
+    "ddn":"1984-08-14",
+    "squadra":"Napoli",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Giovanni",
+    "cognome":"Di Lorenzo",
+    "ddn":"1987-05-01",
+    "squadra":"Napoli",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Kalidou",
+    "cognome":"Koulibaly",
+    "ddn":"1990-10-10",
+    "squadra":"Napoli",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Diego",
+    "cognome":"Demme",
+    "ddn":"1992-11-15",
+    "squadra":"Napoli",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Fabian",
+    "cognome":"Ruiz",
+    "ddn":"1997-10-25",
+    "squadra":"Napoli",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Andre",
+    "cognome":"Anduissa",
+    "ddn":"1992-12-20",
+    "squadra":"Napoli",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Piotr",
+    "cognome":"Zielinski",
+    "ddn":"1998-01-08",
+    "squadra":"Napoli",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Stanislav",
+    "cognome":"Lobotka",
+    "ddn":"1991-06-04",
+    "squadra":"Napoli",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Lorenzo",
+    "cognome":"Insigne",
+    "ddn":"1990-03-20",
+    "squadra":"Napoli",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Andrea",
+    "cognome":"Petagna",
+    "ddn":"1994-08-01",
+    "squadra":"Napoli",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Pepe",
+    "cognome":"Reina",
+    "ddn":"1990-04-18",
+    "squadra":"Lazio",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Francesco",
+    "cognome":"Acerbi",
+    "ddn":"1984-08-14",
+    "squadra":"Lazio",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Luiz",
+    "cognome":"Felipe",
+    "ddn":"1987-05-01",
+    "squadra":"Lazio",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Stefan",
+    "cognome":"Radu",
+    "ddn":"1990-10-10",
+    "squadra":"Lazio",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Marco",
+    "cognome":"Bertini",
+    "ddn":"1992-11-15",
+    "squadra":"Lazio",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Manuel",
+    "cognome":"Lazzari",
+    "ddn":"1997-10-25",
+    "squadra":"Lazio",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Luis",
+    "cognome":"Alberto",
+    "ddn":"1992-12-20",
+    "squadra":"Lazio",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Luka",
+    "cognome":"Romero",
+    "ddn":"1998-01-08",
+    "squadra":"Lazio",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Mattia",
+    "cognome":"Zaccagni",
+    "ddn":"1991-06-04",
+    "squadra":"Lazio",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Ciro",
+    "cognome":"Immobile",
+    "ddn":"1990-03-20",
+    "squadra":"Lazio",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Felipe",
+    "cognome":"Anderson",
+    "ddn":"1994-08-01",
+    "squadra":"Lazio",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Orestis",
+    "cognome":"Karnezis",
+    "ddn":"1990-04-18",
+    "squadra":"Lille",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Sven",
+    "cognome":"Botman",
+    "ddn":"1984-08-14",
+    "squadra":"Lille",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Zeki",
+    "cognome":"Celik",
+    "ddn":"1987-05-01",
+    "squadra":"Lille",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Jose",
+    "cognome":"Fonte",
+    "ddn":"1990-10-10",
+    "squadra":"Lille",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Benjamin",
+    "cognome":"Andre",
+    "ddn":"1992-11-15",
+    "squadra":"Lille",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Renato",
+    "cognome":"Sanches",
+    "ddn":"1997-10-25",
+    "squadra":"Lille",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Angel",
+    "cognome":"Gomes",
+    "ddn":"1992-12-20",
+    "squadra":"Lille",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Eugenio",
+    "cognome":"Pizzuto",
+    "ddn":"1998-01-08",
+    "squadra":"Lille",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Yusuf",
+    "cognome":"Yazici",
+    "ddn":"1991-06-04",
+    "squadra":"Lille",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Jonathan",
+    "cognome":"Bamba",
+    "ddn":"1990-03-20",
+    "squadra":"Lille",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Timothy",
+    "cognome":"Weah",
+    "ddn":"1994-08-01",
+    "squadra":"Lille",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Keylor",
+    "cognome":"Navas",
+    "ddn":"1990-04-18",
+    "squadra":"PSG",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Colin",
+    "cognome":"Dagba",
+    "ddn":"1984-08-14",
+    "squadra":"PSG",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Sergio",
+    "cognome":"Ramos",
+    "ddn":"1987-05-01",
+    "squadra":"PSG",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Juan",
+    "cognome":"Bernat",
+    "ddn":"1990-10-10",
+    "squadra":"PSG",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Ander",
+    "cognome":"Herrera",
+    "ddn":"1992-11-15",
+    "squadra":"PSG",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Danilo",
+    "cognome":"Pereira",
+    "ddn":"1997-10-25",
+    "squadra":"PSG",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Marco",
+    "cognome":"Verratti",
+    "ddn":"1992-12-20",
+    "squadra":"PSG",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Xavi",
+    "cognome":"Simons",
+    "ddn":"1998-01-08",
+    "squadra":"PSG",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Leandro",
+    "cognome":"Paredes",
+    "ddn":"1991-06-04",
+    "squadra":"PSG",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Angel",
+    "cognome":"Di Maria",
+    "ddn":"1990-03-20",
+    "squadra":"PSG",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Kylian",
+    "cognome":"Mbappè",
+    "ddn":"1994-08-01",
+    "squadra":"PSG",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Vito",
+    "cognome":"Mannone",
+    "ddn":"1990-04-18",
+    "squadra":"Monaco",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Ruben",
+    "cognome":"Anguilar",
+    "ddn":"1984-08-14",
+    "squadra":"Monaco",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Christiam",
+    "cognome":"Matsima",
+    "ddn":"1987-05-01",
+    "squadra":"Monaco",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Ismail",
+    "cognome":"Jacobs",
+    "ddn":"1990-10-10",
+    "squadra":"Monaco",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Adrien",
+    "cognome":"Bongiovanni",
+    "ddn":"1992-11-15",
+    "squadra":"Monaco",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Cesc",
+    "cognome":"Fabregas",
+    "ddn":"1997-10-25",
+    "squadra":"Monaco",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Sofiane",
+    "cognome":"Diop",
+    "ddn":"1992-12-20",
+    "squadra":"Monaco",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Aleksandre",
+    "cognome":"Golovin",
+    "ddn":"1998-01-08",
+    "squadra":"Monaco",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Jean",
+    "cognome":"Lucas",
+    "ddn":"1991-06-04",
+    "squadra":"Monaco",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Kevin",
+    "cognome":"Volland",
+    "ddn":"1990-03-20",
+    "squadra":"Monaco",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Gelson",
+    "cognome":"Martins",
+    "ddn":"1994-08-01",
+    "squadra":"Monaco",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Anthony",
+    "cognome":"Lopes",
+    "ddn":"1990-04-18",
+    "squadra":"Lione",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Jerome",
+    "cognome":"Boaten",
+    "ddn":"1984-08-14",
+    "squadra":"Lione",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Damien",
+    "cognome":"Da Silva",
+    "ddn":"1987-05-01",
+    "squadra":"Lione",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Jason",
+    "cognome":"Denajer",
+    "ddn":"1990-10-10",
+    "squadra":"Lione",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Thiago",
+    "cognome":"Mendes",
+    "ddn":"1992-11-15",
+    "squadra":"Lione",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Titouan",
+    "cognome":"Thomas",
+    "ddn":"1997-10-25",
+    "squadra":"Lione",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Luca",
+    "cognome":"Paquetas",
+    "ddn":"1992-12-20",
+    "squadra":"Lione",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Florent",
+    "cognome":"Da Silva",
+    "ddn":"1998-01-08",
+    "squadra":"Lione",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Rayan",
+    "cognome":"Cherki",
+    "ddn":"1991-06-04",
+    "squadra":"Lione",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Habib",
+    "cognome":"Keita",
+    "ddn":"1990-03-20",
+    "squadra":"Lione",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Islam",
+    "cognome":"Slimani",
+    "ddn":"1994-08-01",
+    "squadra":"Lione",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Paul",
+    "cognome":"Lopez",
+    "ddn":"1990-04-18",
+    "squadra":"Marsiglia",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Alvaro",
+    "cognome":"Gonzalez",
+    "ddn":"1984-08-14",
+    "squadra":"Marsiglia",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Leonardo",
+    "cognome":"Balerdi",
+    "ddn":"1987-05-01",
+    "squadra":"Marsiglia",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Luan",
+    "cognome":"Peres",
+    "ddn":"1990-10-10",
+    "squadra":"Marsiglia",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Ugo",
+    "cognome":"Bertelli",
+    "ddn":"1992-11-15",
+    "squadra":"Marsiglia",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Hamine",
+    "cognome":"Harit",
+    "ddn":"1997-10-25",
+    "squadra":"Marsiglia",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Jores",
+    "cognome":"Rahou",
+    "ddn":"1992-12-20",
+    "squadra":"Marsiglia",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Valentin",
+    "cognome":"Rogier",
+    "ddn":"1998-01-08",
+    "squadra":"Marsiglia",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Franco",
+    "cognome":"Tongya",
+    "ddn":"1991-06-04",
+    "squadra":"Marsiglia",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Bilal",
+    "cognome":"Nadir",
+    "ddn":"1990-03-20",
+    "squadra":"Marsiglia",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Dimitri",
+    "cognome":"Payet",
+    "ddn":"1994-08-01",
+    "squadra":"Marsiglia",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Walter",
+    "cognome":"Benitez",
+    "ddn":"1990-04-18",
+    "squadra":"Nizza",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Melvin",
+    "cognome":"Bard",
+    "ddn":"1984-08-14",
+    "squadra":"Nizza",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Flavius",
+    "cognome":"Daniliuc",
+    "ddn":"1987-05-01",
+    "squadra":"Nizza",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Jordan",
+    "cognome":"Lotomba",
+    "ddn":"1990-10-10",
+    "squadra":"Nizza",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Mario",
+    "cognome":"Lemina",
+    "ddn":"1992-11-15",
+    "squadra":"Nizza",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Pablo",
+    "cognome":"Rosario",
+    "ddn":"1997-10-25",
+    "squadra":"Nizza",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Justin",
+    "cognome":"Smith",
+    "ddn":"1992-12-20",
+    "squadra":"Nizza",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Morgan",
+    "cognome":"Schnedelin",
+    "ddn":"1998-01-08",
+    "squadra":"Nizza",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Kephren",
+    "cognome":"Turan",
+    "ddn":"1991-06-04",
+    "squadra":"Nizza",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Luca",
+    "cognome":"Da Chuna",
+    "ddn":"1990-03-20",
+    "squadra":"Nizza",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Andy",
+    "cognome":"Delort",
+    "ddn":"1994-08-01",
+    "squadra":"Nizza",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Manuel",
+    "cognome":"Neuer",
+    "ddn":"1990-04-18",
+    "squadra":"Bayern",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"David",
+    "cognome":"Alaba",
+    "ddn":"1984-08-14",
+    "squadra":"Bayern",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Alphonso",
+    "cognome":"Davies",
+    "ddn":"1987-05-01",
+    "squadra":"Bayern",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Lucas",
+    "cognome":"Hernandez",
+    "ddn":"1990-10-10",
+    "squadra":"Bayern",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Bouna",
+    "cognome":"Sarr",
+    "ddn":"1992-11-15",
+    "squadra":"Bayern",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Javi",
+    "cognome":"Martinez",
+    "ddn":"1997-10-25",
+    "squadra":"Bayern",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Marc",
+    "cognome":"Roca",
+    "ddn":"1992-12-20",
+    "squadra":"Bayern",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Jamal",
+    "cognome":"Musiala",
+    "ddn":"1998-01-08",
+    "squadra":"Bayern",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Cristopher",
+    "cognome":"Scott",
+    "ddn":"1991-06-04",
+    "squadra":"Bayern",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Herman",
+    "cognome":"Gerland",
+    "ddn":"1990-03-20",
+    "squadra":"Bayern",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Miroslav",
+    "cognome":"Klose",
+    "ddn":"1994-08-01",
+    "squadra":"Bayern",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Josep",
+    "cognome":"Martinez",
+    "ddn":"1990-04-18",
+    "squadra":"Lipsia",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Benjamin",
+    "cognome":"Henrichs",
+    "ddn":"1984-08-14",
+    "squadra":"Lipsia",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Jose",
+    "cognome":"Angelino",
+    "ddn":"1987-05-01",
+    "squadra":"Lipsia",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Willi",
+    "cognome":"Orban",
+    "ddn":"1990-10-10",
+    "squadra":"Lipsia",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Tyler",
+    "cognome":"Adams",
+    "ddn":"1992-11-15",
+    "squadra":"Lipsia",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Dani",
+    "cognome":"Olmo",
+    "ddn":"1997-10-25",
+    "squadra":"Lipsia",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Kevin",
+    "cognome":"Kampl",
+    "ddn":"1992-12-20",
+    "squadra":"Lipsia",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Marcel",
+    "cognome":"Sabitzer",
+    "ddn":"1998-01-08",
+    "squadra":"Lipsia",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Konrad",
+    "cognome":"Laimer",
+    "ddn":"1991-06-04",
+    "squadra":"Lipsia",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Hugo",
+    "cognome":"Novoa",
+    "ddn":"1990-03-20",
+    "squadra":"Lipsia",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Fabrice",
+    "cognome":"Hartmann",
+    "ddn":"1994-08-01",
+    "squadra":"Lipsia",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Gregor",
+    "cognome":"Kobel",
+    "ddn":"1990-04-18",
+    "squadra":"B. Dortmund",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Manuel",
+    "cognome":"Akanji",
+    "ddn":"1984-08-14",
+    "squadra":"B. Dortmund",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Raphael",
+    "cognome":"Guerreiro",
+    "ddn":"1987-05-01",
+    "squadra":"B. Dortmund",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Mateu",
+    "cognome":"Morey",
+    "ddn":"1990-10-10",
+    "squadra":"B. Dortmund",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Emre",
+    "cognome":"Can",
+    "ddn":"1992-11-15",
+    "squadra":"B. Dortmund",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Julian",
+    "cognome":"Brandt",
+    "ddn":"1997-10-25",
+    "squadra":"B. Dortmund",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Thorgan",
+    "cognome":"Hazard",
+    "ddn":"1992-12-20",
+    "squadra":"B. Dortmund",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Marco",
+    "cognome":"Pasalic",
+    "ddn":"1998-01-08",
+    "squadra":"B. Dortmund",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Gio",
+    "cognome":"Reyna",
+    "ddn":"1991-06-04",
+    "squadra":"B. Dortmund",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Marco",
+    "cognome":"Reus",
+    "ddn":"1990-03-20",
+    "squadra":"B. Dortmund",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Steffen",
+    "cognome":"Tigges",
+    "ddn":"1994-08-01",
+    "squadra":"B. Dortmund",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Pavao",
+    "cognome":"Parven",
+    "ddn":"1990-04-18",
+    "squadra":"Wolfsburg",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Ridle",
+    "cognome":"Baku",
+    "ddn":"1984-08-14",
+    "squadra":"Wolfsburg",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Sebastian",
+    "cognome":"Bornauw",
+    "ddn":"1987-05-01",
+    "squadra":"Wolfsburg",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Paulo",
+    "cognome":"Otavio",
+    "ddn":"1990-10-10",
+    "squadra":"Wolfsburg",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Maximilian",
+    "cognome":"Arnold",
+    "ddn":"1992-11-15",
+    "squadra":"Wolfsburg",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Dominik",
+    "cognome":"Marx",
+    "ddn":"1997-10-25",
+    "squadra":"Wolfsburg",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Felix",
+    "cognome":"Nmecha",
+    "ddn":"1992-12-20",
+    "squadra":"Wolfsburg",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Aster",
+    "cognome":"Vranckx",
+    "ddn":"1998-01-08",
+    "squadra":"Wolfsburg",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Marvin",
+    "cognome":"Stefaniak",
+    "ddn":"1991-06-04",
+    "squadra":"Wolfsburg",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Wout",
+    "cognome":"Weghorst",
+    "ddn":"1990-03-20",
+    "squadra":"Wolfsburg",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Admir",
+    "cognome":"Mehemedi",
+    "ddn":"1994-08-01",
+    "squadra":"Wolfsburg",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Kevin",
+    "cognome":"Trapp",
+    "ddn":"1990-04-18",
+    "squadra":"Francoforte",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Danny",
+    "cognome":"Da Costa",
+    "ddn":"1984-08-14",
+    "squadra":"Francoforte",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Erik",
+    "cognome":"Durm",
+    "ddn":"1987-05-01",
+    "squadra":"Francoforte",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Timothy",
+    "cognome":"Chandler",
+    "ddn":"1990-10-10",
+    "squadra":"Francoforte",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Aymane",
+    "cognome":"Barkok",
+    "ddn":"1992-11-15",
+    "squadra":"Francoforte",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Fabio",
+    "cognome":"Blanco",
+    "ddn":"1997-10-25",
+    "squadra":"Francoforte",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Makoto",
+    "cognome":"Hasebe",
+    "ddn":"1992-12-20",
+    "squadra":"Francoforte",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Stefan",
+    "cognome":"Ilsanker",
+    "ddn":"1998-01-08",
+    "squadra":"Francoforte",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Daiki",
+    "cognome":"Kamada",
+    "ddn":"1991-06-04",
+    "squadra":"Francoforte",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Rafael",
+    "cognome":"Borre",
+    "ddn":"1990-03-20",
+    "squadra":"Francoforte",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Sam",
+    "cognome":"Lammers",
+    "ddn":"1994-08-01",
+    "squadra":"Francoforte",
+    "ruolo":"Attaccante",
+    "numero": 11
+  },
+  {
+    "nome":"Andrey",
+    "cognome":"Lunev",
+    "ddn":"1990-04-18",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Portiere",
+    "numero": 21
+  },
+  {
+    "nome":"Michel",
+    "cognome":"Bakker",
+    "ddn":"1984-08-14",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Difensore",
+    "numero": 3
+  },
+  {
+    "nome":"Jeremie",
+    "cognome":"Frimpong",
+    "ddn":"1987-05-01",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Difensore",
+    "numero": 19
+  },
+  {
+    "nome":"Odilon",
+    "cognome":"Kossounou",
+    "ddn":"1990-10-10",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Difensore",
+    "numero": 15
+  },
+  {
+    "nome":"Amine",
+    "cognome":"Adli",
+    "ddn":"1992-11-15",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Centrocampista",
+    "numero": 6
+  },
+  {
+    "nome":"Nadiem",
+    "cognome":"Amiri",
+    "ddn":"1997-10-25",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Centrocampista",
+    "numero": 14
+  },
+  {
+    "nome":"Robert",
+    "cognome":"Andrich",
+    "ddn":"1992-12-20",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Centrocampista",
+    "numero": 8
+  },
+  {
+    "nome":"Charles",
+    "cognome":"Aranguiz",
+    "ddn":"1998-01-08",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Centrocampista",
+    "numero": 5
+  },
+  {
+    "nome":"Kerem",
+    "cognome":"Demirbay",
+    "ddn":"1991-06-04",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Centrocampista",
+    "numero": 10
+  },
+  {
+    "nome":"Lucas",
+    "cognome":"Alario",
+    "ddn":"1990-03-20",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Attacante",
+    "numero": 17
+  },
+  {
+    "nome":"Karim",
+    "cognome":"Bellarbi",
+    "ddn":"1994-08-01",
+    "squadra":"Bayer Leverkusen",
+    "ruolo":"Attaccante",
+    "numero": 11
+  }
+]
